@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,redux_thunk",
+    "logging_enabled": "false",
+    "name": "redux_thunkSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "redux_thunkSmokeTest.js"
+}
